@@ -40,7 +40,7 @@
   "short_name": "MyPWA",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "https://jameswquinn.github.io/testing_sw/",
   "description": "My awesome Progressive Web App!",
   "background_color": "#ffffff",
   "theme_color": "#ff0000"
